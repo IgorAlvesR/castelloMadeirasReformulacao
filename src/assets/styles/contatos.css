@@ -1,0 +1,28 @@
+.card-text__numbers {
+  border: 1px solid;
+  border-radius: 2px;
+  padding: 10px;
+  margin: 0 10px;
+  display: block;
+  transition: .3s;
+}
+
+.card-text__numbers .v-icon {
+  font-size: 1.7rem;
+}
+
+.card-text__numbers:hover {
+  transform: translateY(-.35rem);
+}
+
+.card-text__wpp {
+  cursor: pointer;
+}
+
+.card-text__wpp:hover {
+  transform: rotate(-30deg) translateX(.25rem);
+}
+
+.card-text__link {
+  text-decoration: none;
+}
