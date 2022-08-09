@@ -1,6 +1,6 @@
 <template>
   <v-container fluid class="mb-6">
-    <v-app-bar dense app>
+    <v-app-bar dark dense app>
       <v-app-bar-nav-icon
         class="d-flex d-md-none"
         @click.stop="drawer = !drawer"

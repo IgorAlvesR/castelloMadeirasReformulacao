@@ -1,7 +1,6 @@
 <template>
   <v-card>
     <v-img
-      contain
       class="align-center"
       src="../assets/images/principal.jpg"
       gradient="to bottom left, rgba(0,0,0,.1), rgba(0,0,0,1.5)"

@@ -4,6 +4,10 @@
       <v-col cols="12">
         <PrincipalCard />
       </v-col>
+      <v-col cols="6">
+        <v-card> </v-card>
+      </v-col>
+      <v-col cols="6"> </v-col>
     </v-row>
   </v-container>
 </template>

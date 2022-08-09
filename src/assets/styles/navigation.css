@@ -4,12 +4,10 @@ ul {
   width: 100%;
   list-style: none;
 }
-li {
-  color: #333;
-}
+
 a {
   text-decoration: none;
-  color: #333 !important;
+  color: #fff !important;
   outline: none;
 }
 
