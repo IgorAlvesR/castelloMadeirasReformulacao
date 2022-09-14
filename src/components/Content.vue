@@ -8,6 +8,7 @@
         <QuemSomos />
       </v-col>
     </v-row>
+    <Servicos />
     <Contatos />
   </v-container>
 </template>
@@ -16,12 +17,14 @@
 import PrincipalCard from './PrincipalCard.vue'
 import Contatos from './Contatos.vue'
 import QuemSomos from './QuemSomos.vue'
+import Servicos from './Servicos.vue'
 
 export default {
   components: {
     PrincipalCard,
     Contatos,
-    QuemSomos
+    QuemSomos,
+    Servicos
   }
 }
 </script>
