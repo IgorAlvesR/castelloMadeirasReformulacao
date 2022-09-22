@@ -1,9 +1,15 @@
 <template>
-  <v-card width="100vw" class="pa-0" elevation="2" outlined dark tile>
+  <v-card
+    id="quem-somos"
+    width="100vw"
+    class="pa-0"
+    elevation="2"
+    outlined
+    dark
+    tile
+  >
     <v-container class="pt-16 pb-16">
-      <v-card-title id="quem-somos" class="red-text title pa-0 pb-4"
-        >Quem somos</v-card-title
-      >
+      <v-card-title class="red-text title pa-0 pb-4">Quem somos</v-card-title>
       <v-card-text class="subtitle-1 pa-0"
         >A Castello Madeiras é uma empresa situada em Tubarão-SC que atua no
         ramo de construção de casa pré-fabricada de madeira, elaboramos seu

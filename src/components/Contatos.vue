@@ -1,5 +1,5 @@
 <template>
-  <v-row>
+  <v-row id="contato">
     <v-col cols="12" class="pt-0 pb-0">
       <v-card dark tile>
         <v-card-title id="contato" class="red-text justify-center"
