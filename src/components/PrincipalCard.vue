@@ -3,7 +3,7 @@
     <v-img
       height="100vh"
       class="align-center"
-      src="../assets/images/principal.jpg"
+      src="../assets/images/principal.png"
       gradient="to bottom left, rgba(0,0,0,.1), rgba(0,0,0,1.5)"
     >
       <v-card-title

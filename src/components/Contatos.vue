@@ -8,7 +8,13 @@
       </v-card>
     </v-col>
     <v-col cols="12" sm="6" class="pa-0">
-      <v-card width="100vw" elevation="2" tile dark class="text-center">
+      <v-card
+        width="100vw"
+        elevation="2"
+        tile
+        dark
+        class="text-center pl-8 pr-8"
+      >
         <v-card-text>
           <span class="card-text__numbers">
             <a
@@ -36,7 +42,13 @@
       </v-card>
     </v-col>
     <v-col cols="12" sm="6" class="pa-0">
-      <v-card width="100vw" elevation="2" tile dark class="text-center">
+      <v-card
+        width="100vw"
+        elevation="2"
+        tile
+        dark
+        class="text-center pl-8 pr-8"
+      >
         <v-card-text>
           <span class="card-text__numbers">
             <v-icon color="red">mdi-phone</v-icon>
