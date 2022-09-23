@@ -5,7 +5,6 @@
     class="pa-0"
     elevation="2"
     outlined
-    dark
     tile
   >
     <v-container class="pt-16 pb-16">

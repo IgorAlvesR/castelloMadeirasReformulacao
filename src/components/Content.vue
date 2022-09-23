@@ -8,6 +8,7 @@
         <QuemSomos />
       </v-col>
     </v-row>
+    <GaleriaDeFotos />
     <Servicos />
     <Contatos />
   </v-container>
@@ -17,6 +18,7 @@
 import PrincipalCard from './PrincipalCard.vue'
 import Contatos from './Contatos.vue'
 import QuemSomos from './QuemSomos.vue'
+import GaleriaDeFotos from './GaleriaDeFotos.vue'
 import Servicos from './Servicos.vue'
 
 export default {
@@ -24,7 +26,8 @@ export default {
     PrincipalCard,
     Contatos,
     QuemSomos,
-    Servicos
+    Servicos,
+    GaleriaDeFotos
   }
 }
 </script>

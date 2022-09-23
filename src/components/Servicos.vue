@@ -1,7 +1,7 @@
 <template>
   <v-container class="pt-16 pb-16" id="servicos">
-    <v-timeline>
-      <v-timeline-item color="red lighten-1" large>
+    <v-timeline dense>
+      <v-timeline-item color="red lighten-1">
         <template v-slot:opposite>
           <v-icon>mdi-toilet</v-icon>
           <span>Hidráulica</span>
@@ -18,7 +18,7 @@
         </v-card>
       </v-timeline-item>
 
-      <v-timeline-item color="red lighten-1" large>
+      <v-timeline-item color="red lighten-1">
         <template v-slot:opposite>
           <v-icon>mdi-lightning-bolt-outline</v-icon>
           <span>Elétrica</span>
@@ -35,7 +35,7 @@
         </v-card>
       </v-timeline-item>
 
-      <v-timeline-item color="red lighten-1" large>
+      <v-timeline-item color="red lighten-1">
         <template v-slot:opposite>
           <v-icon>mdi-floor-plan</v-icon>
           <span>Pisos</span>
@@ -51,7 +51,7 @@
         </v-card>
       </v-timeline-item>
 
-      <v-timeline-item color="red lighten-1" large>
+      <v-timeline-item color="red lighten-1">
         <template v-slot:opposite>
           <v-icon>mdi-wall</v-icon>
           <span>Parede Duplada</span>
