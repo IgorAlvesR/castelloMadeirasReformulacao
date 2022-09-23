@@ -10,6 +10,9 @@
   .title-carousel {
     font-size: 1.6rem;
   }
+  .actions-card button {
+    font-size: .5rem;
+  }
 }
 
 @media screen and (min-width: 1024px) {

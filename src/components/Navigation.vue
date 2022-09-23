@@ -7,14 +7,14 @@
     </li>
     |
     <li>
-      <a href="#servicos">
-        <span class="nav__text">Serviços</span>
+      <a href="#sonhos-realizados">
+        <span class="nav__text">Sonhos Realizados</span>
       </a>
     </li>
     |
     <li>
-      <a href="#sonhos-realizados">
-        <span class="nav__text">Sonhos Realizados</span>
+      <a href="#servicos">
+        <span class="nav__text">Serviços</span>
       </a>
     </li>
     |
