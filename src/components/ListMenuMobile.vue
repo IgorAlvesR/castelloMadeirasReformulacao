@@ -16,10 +16,6 @@
       <v-list-item href="#contato">
         <v-list-item-title>Contato</v-list-item-title>
       </v-list-item>
-
-      <v-list-item href="#modelo-de-casas">
-        <v-list-item-title>Modelo de Casas da Castello</v-list-item-title>
-      </v-list-item>
     </v-list-item-group>
   </v-list>
 </template>
