@@ -12,6 +12,7 @@
       />
       <v-card-actions class="actions-card justify-center mt-16">
         <v-btn
+          class="px-4"
           color="white"
           outlined
           x-large
