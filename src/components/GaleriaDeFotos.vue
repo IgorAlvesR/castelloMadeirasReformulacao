@@ -35,12 +35,15 @@ export default {
   data() {
     return {
       images: [
-        require('../assets/img02.jpeg'),
-        require('../assets/img03.jpeg'),
-        require('../assets/img04.jpeg'),
-        require('../assets/img05.jpeg'),
-        require('../assets/img06.jpeg'),
-        require('../assets/img07.jpeg')
+        require('../assets/gridImages/img01.jpeg'),
+        require('../assets/gridImages/img02.jpeg'),
+        require('../assets/gridImages/img03.jpeg'),
+        require('../assets/gridImages/img04.jpeg'),
+        require('../assets/gridImages/img05.jpeg'),
+        require('../assets/gridImages/img06.jpeg'),
+        require('../assets/gridImages/img07.jpeg'),
+        require('../assets/gridImages/img08.jpeg'),
+        require('../assets/gridImages/img09.jpeg')
       ]
     }
   }

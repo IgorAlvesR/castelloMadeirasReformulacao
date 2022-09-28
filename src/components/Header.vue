@@ -6,8 +6,9 @@
         @click.stop="drawer = !drawer"
       />
       <v-img class="mr-2" max-width="30" src="../assets/logo.png" />
-      <v-app-bar-title style="width: 50%">Castello Madeiras</v-app-bar-title>
-      <v-spacer></v-spacer>
+      <v-toolbar-title style="width: 50%">
+        <a class="link-home" href="#inicio">Castello Madeiras</a>
+      </v-toolbar-title>
       <Navigation v-if="!($vuetify.breakpoint.xs || $vuetify.breakpoint.sm)" />
     </v-app-bar>
 
@@ -30,3 +31,10 @@ export default {
   })
 }
 </script>
+
+<style scoped>
+.link-home {
+  text-decoration: none;
+  color: #fff;
+}
+</style>

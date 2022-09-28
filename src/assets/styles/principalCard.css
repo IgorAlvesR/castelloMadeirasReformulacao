@@ -6,17 +6,49 @@
   color: rgb(173, 173, 173);
 }
 
-@media screen and (max-width: 530px) {
+@media only screen and (min-width: 530px) {
   .title-carousel {
     font-size: 1.6rem;
+  }
+  .actions-card a {
+    font-size: initial !important; 
+  }
+  
+}
+
+@media only screen and (min-width: 320px) {
+  .title-carousel {
+    font-size: 1.9rem;
   }
   .actions-card a {
     font-size: .6rem !important; 
   }
 }
 
-@media screen and (min-width: 1024px) {
+@media only screen and (min-width: 768px) {
+  .title-carousel {
+    font-size: 3rem;
+  }
+  .actions-card a {
+    font-size: initial !important; 
+  }
+}
+
+@media only screen and (min-width: 1024px) {
   .title-carousel {
     font-size: 5rem;
   }
+  .actions-card a {
+    font-size: initial !important; 
+  }
 }
+
+@media only screen and (min-width: 1440px) {
+  .title-carousel {
+    font-size: 7rem;
+  }
+  .actions-card a {
+     font-size: initial !important; 
+  }
+}
+
