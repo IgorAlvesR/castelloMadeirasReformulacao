@@ -3,8 +3,7 @@
     <v-img
       height="100vh"
       class="align-center"
-      src="../assets/images/principal.svg"
-      gradient="to bottom left, rgba(0,0,0,.1), rgba(0,0,0,1.5)"
+      src="../assets/images/principal.jpg"
     >
       <v-card-title
         class="title-carousel justify-center"
