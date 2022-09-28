@@ -39,11 +39,17 @@ export default {
         require('../assets/gridImages/img02.jpeg'),
         require('../assets/gridImages/img03.jpeg'),
         require('../assets/gridImages/img04.jpeg'),
-        require('../assets/gridImages/img05.jpeg'),
         require('../assets/gridImages/img06.jpeg'),
         require('../assets/gridImages/img07.jpeg'),
         require('../assets/gridImages/img08.jpeg'),
-        require('../assets/gridImages/img09.jpeg')
+        require('../assets/gridImages/img09.jpeg'),
+        require('../assets/gridImages/img10.jpeg'),
+        require('../assets/gridImages/img11.jpeg'),
+        require('../assets/gridImages/img12.jpeg'),
+        require('../assets/gridImages/img13.jpeg'),
+        require('../assets/gridImages/img14.jpeg'),
+        require('../assets/gridImages/img15.jpeg'),
+        require('../assets/gridImages/img16.jpeg')
       ]
     }
   }

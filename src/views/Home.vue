@@ -12,6 +12,17 @@
         </a>
       </span>
     </v-btn>
+    <v-btn class="button-float insta" dark fab bottom right>
+      <span class="">
+        <a
+          class="card-text__link"
+          href="https://www.instagram.com/castellocasasdemadeira/"
+          target="_blank"
+        >
+          <v-icon color="white">mdi-instagram</v-icon>
+        </a>
+      </span>
+    </v-btn>
   </div>
 </template>
 
@@ -24,8 +35,6 @@ export default {
 }
 </script>
 <style scoped>
-.button-float {
-}
 .card-text__link {
   text-decoration: none;
 }
@@ -35,8 +44,12 @@ export default {
   display: block;
   transition: 0.3s;
   position: fixed;
-  bottom: 10px;
+  bottom: 80px;
   right: 10px;
+}
+
+.insta {
+  bottom: 10px;
 }
 
 .button-float .v-icon {
