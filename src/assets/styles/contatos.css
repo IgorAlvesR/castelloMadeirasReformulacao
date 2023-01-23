@@ -26,3 +26,7 @@
 .card-text__link {
   text-decoration: none;
 }
+
+.max-width-500 {
+  max-width: 500px;
+}
